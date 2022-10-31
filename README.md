@@ -1,17 +1,5 @@
 # login_money_masterclass
 
-A new Flutter project.
+![IMAGE 2022-10-31 11:20:51](https://user-images.githubusercontent.com/99218997/199030197-f0b842b8-5784-4275-9d43-4d79bcce4df9.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# login_control_masterclass
+- Desafio de Tela Masterclass Flutterando
